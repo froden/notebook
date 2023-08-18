@@ -1,0 +1,122 @@
+[
+  {
+    "total": 0.2633,
+    "startsAt": "2023-08-15T00:00:00.000+02:00",
+    "level": "NORMAL"
+  },
+  {
+    "total": 0.2484,
+    "startsAt": "2023-08-15T01:00:00.000+02:00",
+    "level": "NORMAL"
+  },
+  {
+    "total": 0.2326,
+    "startsAt": "2023-08-15T02:00:00.000+02:00",
+    "level": "NORMAL"
+  },
+  {
+    "total": 0.2367,
+    "startsAt": "2023-08-15T03:00:00.000+02:00",
+    "level": "NORMAL"
+  },
+  {
+    "total": 0.2386,
+    "startsAt": "2023-08-15T04:00:00.000+02:00",
+    "level": "NORMAL"
+  },
+  {
+    "total": 0.2677,
+    "startsAt": "2023-08-15T05:00:00.000+02:00",
+    "level": "NORMAL"
+  },
+  {
+    "total": 0.2937,
+    "startsAt": "2023-08-15T06:00:00.000+02:00",
+    "level": "EXPENSIVE"
+  },
+  {
+    "total": 0.3463,
+    "startsAt": "2023-08-15T07:00:00.000+02:00",
+    "level": "EXPENSIVE"
+  },
+  {
+    "total": 0.3949,
+    "startsAt": "2023-08-15T08:00:00.000+02:00",
+    "level": "VERY_EXPENSIVE"
+  },
+  {
+    "total": 0.4189,
+    "startsAt": "2023-08-15T09:00:00.000+02:00",
+    "level": "VERY_EXPENSIVE"
+  },
+  {
+    "total": 0.3907,
+    "startsAt": "2023-08-15T10:00:00.000+02:00",
+    "level": "VERY_EXPENSIVE"
+  },
+  {
+    "total": 0.371,
+    "startsAt": "2023-08-15T11:00:00.000+02:00",
+    "level": "EXPENSIVE"
+  },
+  {
+    "total": 0.3605,
+    "startsAt": "2023-08-15T12:00:00.000+02:00",
+    "level": "EXPENSIVE"
+  },
+  {
+    "total": 0.3468,
+    "startsAt": "2023-08-15T13:00:00.000+02:00",
+    "level": "EXPENSIVE"
+  },
+  {
+    "total": 0.3481,
+    "startsAt": "2023-08-15T14:00:00.000+02:00",
+    "level": "EXPENSIVE"
+  },
+  {
+    "total": 0.3506,
+    "startsAt": "2023-08-15T15:00:00.000+02:00",
+    "level": "EXPENSIVE"
+  },
+  {
+    "total": 0.3676,
+    "startsAt": "2023-08-15T16:00:00.000+02:00",
+    "level": "EXPENSIVE"
+  },
+  {
+    "total": 0.3755,
+    "startsAt": "2023-08-15T17:00:00.000+02:00",
+    "level": "EXPENSIVE"
+  },
+  {
+    "total": 0.3623,
+    "startsAt": "2023-08-15T18:00:00.000+02:00",
+    "level": "EXPENSIVE"
+  },
+  {
+    "total": 0.3463,
+    "startsAt": "2023-08-15T19:00:00.000+02:00",
+    "level": "EXPENSIVE"
+  },
+  {
+    "total": 0.3476,
+    "startsAt": "2023-08-15T20:00:00.000+02:00",
+    "level": "EXPENSIVE"
+  },
+  {
+    "total": 0.3338,
+    "startsAt": "2023-08-15T21:00:00.000+02:00",
+    "level": "EXPENSIVE"
+  },
+  {
+    "total": 0.2911,
+    "startsAt": "2023-08-15T22:00:00.000+02:00",
+    "level": "NORMAL"
+  },
+  {
+    "total": 0.2707,
+    "startsAt": "2023-08-15T23:00:00.000+02:00",
+    "level": "NORMAL"
+  }
+]
